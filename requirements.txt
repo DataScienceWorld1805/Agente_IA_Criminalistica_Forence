@@ -1,0 +1,38 @@
+# Core LangChain and LangGraph
+langgraph>=0.2.0
+langchain>=0.2.0
+langchain-community>=0.2.0
+
+# Vector Store
+chromadb>=0.4.0
+
+# LLM Provider
+groq>=0.4.0
+
+# PDF Processing
+pdfplumber>=0.10.0
+PyPDF2>=3.0.0
+pypdf>=4.0.0
+
+# Embeddings
+sentence-transformers>=2.3.0
+FlagEmbedding>=1.2.0
+
+# Utilities
+pydantic>=2.5.0
+python-dotenv>=1.0.0
+tiktoken>=0.5.0
+
+# Optional: OCR
+pytesseract>=0.3.10
+Pillow>=10.0.0
+
+# Optional: Reranking
+torch>=2.0.0
+transformers>=4.35.0
+
+# Logging and Utilities
+python-json-logger>=2.0.7
+
+# Web Interface
+gradio>=4.0.0
