@@ -525,8 +525,10 @@ Las contribuciones son bienvenidas. Por favor:
 
 ## 📧 Contacto
 
-[Información de contacto]
+DataScienceWorld1805
 
+GitHub: @DataScienceWorld1805
+Email: datascienceworld1805@gmail.com
 ---
 
 **Desarrollado con:** LangGraph, Groq, ChromaDB, BGE-M3, Gradio
