@@ -2,6 +2,10 @@
 
 Sistema de Retrieval-Augmented Generation (RAG) especializado en criminología, medicina forense, balística y análisis de escenas de crimen. Utiliza LangGraph para orquestación de flujos, Groq LLM para generación de respuestas, embeddings BGE-M3 multilingües para búsqueda semántica y ChromaDB como base de datos vectorial.
 
+## 🎯 Descripción
+
+Este sistema proporciona un asistente inteligente especializado en dominios criminológicos y forenses, capaz de responder consultas complejas basándose en una base de conocimiento documental. El sistema procesa documentos PDF especializados, los indexa con embeddings semánticos y utiliza técnicas avanzadas de recuperación y reranking para proporcionar respuestas precisas y citadas.
+
 ## ✨ Características
 
 - **RAG Especializado**: Enfocado en dominios criminológicos y forenses
@@ -525,10 +529,8 @@ Las contribuciones son bienvenidas. Por favor:
 
 ## 📧 Contacto
 
-DataScienceWorld1805
+[Información de contacto]
 
-GitHub: @DataScienceWorld1805
-Email: datascienceworld1805@gmail.com
 ---
 
 **Desarrollado con:** LangGraph, Groq, ChromaDB, BGE-M3, Gradio
